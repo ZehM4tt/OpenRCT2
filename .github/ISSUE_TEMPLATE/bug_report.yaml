@@ -1,3 +1,4 @@
+---
 name: Bug Report
 description: Report a bug or crash
 body:
@@ -110,3 +111,4 @@ body:
     label: Anything else we should know?
   validations:
     required: false
+...
